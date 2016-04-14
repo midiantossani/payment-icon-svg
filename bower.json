@@ -1,0 +1,23 @@
+{
+  "name": "payment-icon-svg",
+  "homepage": "https://github.com/wallynm/payment-icon-svg",
+  "authors": [
+    "wally.nm@gmail.com"
+  ],
+  "description": "Collorfull icon payments",
+  "main": "",
+  "keywords": [
+    "icon",
+    "payment",
+    "svg",
+    "collorfull"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

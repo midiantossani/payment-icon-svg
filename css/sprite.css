@@ -1,0 +1,83 @@
+.icon {
+    font-size: 10px;
+}
+
+.icon:before {
+    content:' ';
+    vertical-align:middle;
+    display: inline-block;
+    background-image: url("../svg/sprite.svg");
+    background-repeat: no-repeat;
+    background-size: 78em 527.1em;
+}
+
+.no-svg .icon:before {
+    background-image: url("../svg/sprite.png");
+}
+
+.icon.icon-card-amex:before {
+    background-position: 0em 0em;
+    width: 75.2em;
+    height: 47.1em;
+}
+
+.icon.icon-card-diners:before {
+    background-position: 0em -47.1em;
+    width: 75em;
+    height: 47.1em;
+}
+
+.icon.icon-card-discover:before {
+    background-position: 0em -94.2em;
+    width: 78em;
+    height: 50.1em;
+}
+
+.icon.icon-card-elo:before {
+    background-position: 0em -144.3em;
+    width: 78em;
+    height: 50.1em;
+}
+
+.icon.icon-card-hipercard:before {
+    background-position: 0em -194.4em;
+    width: 75.2em;
+    height: 47.1em;
+}
+
+.icon.icon-card-jcb:before {
+    background-position: 0em -241.5em;
+    width: 75em;
+    height: 47.1em;
+}
+
+.icon.icon-card-maestro:before {
+    background-position: 0em -288.6em;
+    width: 75em;
+    height: 47.1em;
+}
+
+.icon.icon-card-mastercard:before {
+    background-position: 0em -335.7em;
+    width: 75em;
+    height: 47.1em;
+}
+
+.icon.icon-card-meli:before {
+    background-position: 0em -382.8em;
+    width: 75.2em;
+    height: 47.1em;
+}
+
+.icon.icon-card-paypal:before {
+    background-position: 0em -429.9em;
+    width: 78em;
+    height: 50.1em;
+}
+
+.icon.icon-card-visa:before {
+    background-position: 0em -480em;
+    width: 75em;
+    height: 47.1em;
+}
+

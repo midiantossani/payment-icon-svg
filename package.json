@@ -1,0 +1,23 @@
+{
+  "name": "payment-icon-svg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://wallynm@github.com/wallynm/payment-icon-svg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wallynm/payment-icon-svg/issues"
+  },
+  "homepage": "https://github.com/wallynm/payment-icon-svg#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-svg-sprites": "^3.0.0"
+  }
+}
