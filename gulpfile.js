@@ -5,6 +5,7 @@ gulp.task('svg-sprites', function () {
   return gulp.src('icons/*.svg')
     .pipe(svgSprite({
         selector: "icon-card-%f",
+        common: "ips"
     }))
     .pipe(gulp.dest('./'));
 });
