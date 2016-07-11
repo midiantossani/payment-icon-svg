@@ -16,11 +16,8 @@
     "url": "https://github.com/wallynm/payment-icon-svg/issues"
   },
   "homepage": "https://github.com/wallynm/payment-icon-svg#readme",
-  "dependencies": {
-    "gulp": "^3.9.1",
-    "gulp-svg-sprites": "^3.0.0",
-    "gulp-svgmin": "^1.2.2",
-    "install": "^0.6.1",
-    "npm": "^3.8.6"
+  "engines":{"node": "4.0.0"},
+  "devDependencies": {
+    "gulp-svgmin": "^1.2.2"
   }
 }

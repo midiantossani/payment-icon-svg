@@ -8,7 +8,7 @@
     display: inline-block;
     background-image: url("../svg/sprite.svg");
     background-repeat: no-repeat;
-    background-size: 78em 527.1em;
+    background-size: 78em 577.2em;
 }
 
 .no-svg .ips:before {
@@ -75,8 +75,14 @@
     height: 50.1em;
 }
 
-.ips.icon-card-visa:before {
+.ips.icon-card-real:before {
     background-position: 0em -480em;
+    width: 78em;
+    height: 50.1em;
+}
+
+.ips.icon-card-visa:before {
+    background-position: 0em -530.1em;
     width: 75em;
     height: 47.1em;
 }
